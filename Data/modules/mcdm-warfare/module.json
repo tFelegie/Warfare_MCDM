@@ -10,5 +10,8 @@
 		"minimum": "9",
 		"verified": "10"
 	},
-	"esmodules": ["scripts/actor.mjs"]
+	"esmodules": ["/scripts/actor.mjs"],
+	"url": "https://github.com/cswendrowski/FoundryVTT-Encounter-Builder",
+	"manifest": "https://github.com/cswendrowski/FoundryVTT-Encounter-Builder/releases/latest/module.json",
+	"download": "https://github.com/cswendrowski/FoundryVTT-Encounter-Builder/releases/download/1.0.0/module.zip"
 }
