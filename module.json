@@ -10,5 +10,6 @@
 		"minimum": "9",
 		"verified": "10"
 	},
-	"esmodules": ["scripts/actor.mjs"]
+	"esmodules": ["scripts/actor.mjs"],
+	"manifest": "https://github.com/tFelegie/Warfare_MCDM/blob/main/module.json"
 }
