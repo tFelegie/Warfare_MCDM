@@ -1,4 +1,5 @@
 {
+	"title": "MCDM: Core Support Module",
 	"id": "mcdm-warfare",
 	"title": "MCDM Warfare",
 	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
@@ -11,5 +12,6 @@
 		"verified": "10"
 	},
 	"esmodules": ["scripts/actor.mjs"],
-	"manifest": "https://github.com/tFelegie/Warfare_MCDM/blob/main/module.json"
+	"manifest": "https://github.com/tFelegie/Warfare_MCDM/blob/main/module.json",
+	"url": "https://github.com/tFelegie/Warfare_MCDM"
 }
